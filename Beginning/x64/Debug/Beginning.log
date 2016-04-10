@@ -1,0 +1,14 @@
+﻿Build started 2016-04-09 12:23:08.
+     1>Project "D:\C++\SFML\Beginning\Beginning\Beginning.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"D:\C++\SFML-2.3.2\include" /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\SFML\Beginning\x64\Debug\Beginning.exe" /NOLOGO /LIBPATH:D:\C++\SFML2\lib "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-main-d.lib" "sfml-network-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\C++\SFML\Beginning\x64\Debug\Beginning.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\SFML\Beginning\x64\Debug\Beginning.lib" /MACHINE:X64 x64\Debug\main.obj
+     1>MSVCRT.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrtd.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Beginning.vcxproj -> D:\C++\SFML\Beginning\x64\Debug\Beginning.exe
+     1>Done Building Project "D:\C++\SFML\Beginning\Beginning\Beginning.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
